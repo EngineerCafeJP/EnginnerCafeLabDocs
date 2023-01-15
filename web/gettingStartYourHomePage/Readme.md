@@ -35,6 +35,9 @@ New repositoryから任意のリポジトリを建てる。
 
 <img width="1378" alt="image" src="https://user-images.githubusercontent.com/51439199/212526142-de44d0e6-6455-4c38-8074-3a69942c9bed.png">
 
++ HPとして公開したいリポジトリの`Settings`を開く
++ Pagesタブをクリック
++ HPとして公開したいBranchを選ぶ(概ね`main`でOK。フレームワークを使う場合`gh-pages`が推奨される)
 
 
 
