@@ -39,6 +39,11 @@ New repositoryから任意のリポジトリを建てる。
 
 <img width="1389" alt="image" src="https://user-images.githubusercontent.com/51439199/212525900-102af842-5f57-461c-9185-f3f61db5a736.png">
 
+`html テンプレート` などで検索してもいいが、VSCodeを使って`html5`と入力してテンプレートを作成させたほうが早くて便利
+
+![html](https://user-images.githubusercontent.com/51439199/212528088-e4672b8d-f753-41db-a0fd-24fe99a87420.gif)
+
+
 
 
 ## 3. リポジトリ設定　からGithubPagesを有効にする
