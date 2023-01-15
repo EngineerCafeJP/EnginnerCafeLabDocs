@@ -63,11 +63,38 @@ New repositoryから任意のリポジトリを建てる。
 
 
 
+`https://{organization名 | ユーザ名}.github.io/{リポジトリ名}/`
+とアドレスバーに入力するとページが表示されます。
+
+例えばこのプロジェクトのリポジトリの`web/gettingStartYourHomePage/`を表示したい場合は、
+
+https://engineercafejp.github.io/EnginnerCafeLabDocs/web/gettingStartYourHomePage/
 
 
+とすれば、`EnginnerCafeLabDocs`リポジトリの`/web/gettingStartYourHomePage/`においた`index.html`の内容が表示されます。
 
 
 # さらなる研鑽のための情報
+
+Javascriptの各種ライブラリをインストールして使ってみましょう。
+
+CDNという仕組みを利用してWebページに装飾を加えることができる他、npmなどのパッケージマネージャーを用いて依存関係を明確にしたものをGitHub Pagesで動かすことも出来ます。
+
+
+最近ではjQueryに加えてReactやVueといったレンダリングエンジンが流行っています。
+
+
+## ファイルを参照したい場合
+
+ローカルでの検証ではXAMPPやhttp-serverなどを利用すると一層開発がしやすいと思います。
+
+CSVやjsonといったファイルを読み込みたい場合にもサーバーを利用する必要があります。
+
+## ログインやフォームの機能をつけたい場合
+
+
+データの永続化が必要になったらGitHubPagesは概ね卒業です。
+データベースなどのミドルウェアを選定できる環境にステップアップしましょう！！
 
 
 
