@@ -33,6 +33,7 @@ New repositoryから任意のリポジトリを建てる。
 
 
 
+<img width="1378" alt="image" src="https://user-images.githubusercontent.com/51439199/212526142-de44d0e6-6455-4c38-8074-3a69942c9bed.png">
 
 
 
