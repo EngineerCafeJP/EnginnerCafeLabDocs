@@ -10,6 +10,11 @@ HPを公開するとは？
 いまではこの機能はGitHubにおまかせすることができます。
 
 
+ちなみにGitHub公式のマニュアルはこちら
+https://docs.github.com/ja/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+
+
 # 用意するもの
 
 - Githubのアカウント
@@ -79,5 +84,6 @@ New repositoryから任意のリポジトリを建てる。
 
 おすすめ書籍
 https://book.mynavi.jp/ec/products/detail/id=132319
+
 https://book.mynavi.jp/ec/products/detail/id=65861
 
