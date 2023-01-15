@@ -30,6 +30,11 @@ New repositoryから任意のリポジトリを建てる。
 <img width="1070" alt="image" src="https://user-images.githubusercontent.com/51439199/212525772-8b81a03f-263c-40dd-9ee9-a3309a8c15ad.png">
 
 
+ポイントとしてはPublicなリポジトリとして選択すること。有料版であればPriviteでもGitHub Pagesを公開することもできる。
+
+つまり、ソースコードは基本的には世界に公開されることになる。
+
+
 ## 2. エディターを用いてパス、ディレクトリとhtmlファイルを記述する
 
 <img width="1389" alt="image" src="https://user-images.githubusercontent.com/51439199/212525900-102af842-5f57-461c-9185-f3f61db5a736.png">
